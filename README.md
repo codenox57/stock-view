@@ -2,6 +2,9 @@
 
 This Streamlit application provides real-time stock analysis and news monitoring capabilities. It allows users to track multiple stocks simultaneously, visualize their price history, and access relevant news articles with publication timestamps.
 
+## Important Note
+This application was primarily developed through interaction with Claude 3.5 Sonnet, an AI language model created by Anthropic. While the code is functional and follows best practices, users should be aware that it was generated through AI assistance and may benefit from additional testing and validation in production environments.
+
 ## Features
 
 The application offers a comprehensive set of features for stock analysis:
